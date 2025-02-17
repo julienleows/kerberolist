@@ -8,6 +8,8 @@ vulnerability to Kerberoasting attacks. It connects to an AD server using the pr
 retrieves user accounts and outputs the results in a JSON file.  
 By default, the tool tries to request with an anonymous authentication.  
 To obtain output in json format, specify the output file with the '-o <file>' option.
+Kerberolist runs on the Windows operating system.  
+You can download the latest version of the binary from the [releases section](https://github.com/julienleows/kerberolist/releases).
 
 ```text
 Description:
