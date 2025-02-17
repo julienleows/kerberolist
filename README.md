@@ -66,3 +66,5 @@ To compile the application, navigate to the `./kerberolist` directory and execut
 dotnet publish -c Release -r win-x64
 ```  
 The compiled file is saved in the `./kerberolist/bin/Release/net9.0/win-x64/publish` directory.
+
+By using this tool, you agree to the [End User License Agreement](EULA.md) (EULA).
